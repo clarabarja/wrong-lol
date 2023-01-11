@@ -1,0 +1,19 @@
+body{
+	background-color: #FEFCF3;
+}
+
+img{
+	border-radius: 20px;
+}
+
+.niceborder{
+	border-style: solid;
+	border-color: #DBA39A;
+	padding: 2px
+	border-collapse: collapse;
+	border-radius: 20px;
+}
+
+h2{
+	text-decoration: underline;
+}
